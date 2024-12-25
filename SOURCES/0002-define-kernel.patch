@@ -1,0 +1,10 @@
+--- hpsa_kernel_compat.h.orig	2024-12-25 00:24:46.009096361 +0000
++++ hpsa_kernel_compat.h	2024-12-25 00:25:30.285588329 +0000
+@@ -46,6 +46,7 @@
+ /* #define RHEL6u5 */
+ /* #define RHEL7u1 */
+ /* Default is kernel.org */
++#define KCLASS4B
+ 
+ /* ----- RHEL5 variants --------- */
+ #if \
