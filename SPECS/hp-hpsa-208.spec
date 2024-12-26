@@ -1,7 +1,7 @@
 %define module_dir updates
 
 Summary: HPSA Driver HP RAID cards
-Name: hp-hpsa-alt
+Name: hp-hpsa-208
 Version: 3.4.20.208
 Release: 1%{?dist}
 License: GPL
